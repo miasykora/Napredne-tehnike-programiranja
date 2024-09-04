@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024.09.03 17:19:48.849,=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024.09.03 17:19:48.952,=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024.09.03 17:36:36.774,=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\File1.h</Transaction>
+    <Transaction>2024.09.03 17:37:20.029,C:\Users\Mia\Desktop\sport_trgovina\Proizvod.h=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\File1.h</Transaction>
+    <Transaction>2024.09.03 17:37:29.129,=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2024.09.03 17:37:53.056,C:\Users\Mia\Desktop\sport_trgovina\Proizvod.cpp=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2024.09.03 17:38:17.767,=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\File1.h</Transaction>
+    <Transaction>2024.09.03 17:38:33.029,C:\Users\Mia\Desktop\sport_trgovina\Kupac.h=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\File1.h</Transaction>
+    <Transaction>2024.09.03 17:38:46.441,=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2024.09.03 17:38:58.392,C:\Users\Mia\Desktop\sport_trgovina\Kupac.cpp=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2024.09.03 17:41:47.485,=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\File1.h</Transaction>
+    <Transaction>2024.09.03 17:42:02.399,C:\Users\Mia\Desktop\sport_trgovina\Narudzba.h=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\File1.h</Transaction>
+    <Transaction>2024.09.03 17:46:00.227,=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2024.09.03 17:46:12.158,C:\Users\Mia\Desktop\sport_trgovina\Narudzba.cpp=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2024.09.03 17:51:42.148,=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2024.09.03 17:58:13.440,C:\Users\Mia\Desktop\sport_trgovina\FormUnosProizvoda.cpp=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024.09.03 17:58:13.440,C:\Users\Mia\Desktop\sport_trgovina\FormUnosProizvoda.dfm=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024.09.03 17:58:13.440,C:\Users\Mia\Desktop\sport_trgovina\FormUnosProizvoda.h=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024.09.03 18:15:13.358,C:\Users\Mia\Desktop\sport_trgovina\Database.cpp=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2024.09.03 18:15:29.325,=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024.09.03 18:57:19.843,C:\Users\Mia\Desktop\sport_trgovina\sport_trgovinaPCH1.h=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024.09.03 18:57:19.871,C:\Users\Mia\Desktop\sport_trgovina\Unit2.dfm=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024.09.03 18:57:19.871,C:\Users\Mia\Desktop\sport_trgovina\Unit2.h=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2024.09.03 18:57:19.871,C:\Users\Mia\Desktop\sport_trgovina\Unit2.cpp=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024.09.03 18:57:19.913,C:\Users\Mia\Desktop\sport_trgovina\sport_trgovina.cbproj=C:\Users\Mia\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
